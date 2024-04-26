@@ -1,3 +1,7 @@
+;the code takes an input as a date such as 4/25/2024
+;it then prints "The date 4/25/2024 falls on a Thursday" for this example
+
+
 section .data
 extern printf
 
